@@ -1,0 +1,21 @@
+{
+  "commands": {
+    "commands": [
+      {
+        "ExerciseCommand": {
+          "templateId": "2fa7fec894ed2f78a52c03d35cd2bbd283dd2f415fd6bf40510c50a6445bbd2b:Iou:Iou",
+          "contractId": "0015522094fe0ea8757de07e2df9bb6836a9becfa5d43641414c422be6cb414e9eca111220cb88afd06241e32f3c91d905e94bf3c2df5a8f0bebb484dc5e247fce38842298",
+          "choice": "Iou_AddObserver",
+          "choiceArgument": {
+            "newObserver": "Bob::12203ef5774e330b8c8d3a5802674ad68695be6c44d7ef6b748c0ace5a96ce6f02cb"
+          }
+        }
+      }
+],
+"userId": "alice-user",
+    "commandId": "iou-disclosure-split-1",
+    "actAs": [
+      "Alice::12203ef5774e330b8c8d3a5802674ad68695be6c44d7ef6b748c0ace5a96ce6f02cb"
+]
+}
+}
